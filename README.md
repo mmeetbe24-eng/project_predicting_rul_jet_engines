@@ -1,3 +1,4 @@
+⚠️ **Superseded by [AeroTwin-Edge](https://github.com/mmeetbe24-eng/Project_Aerotwin_Edge)** — this was the original LSTM-based prototype. The redesigned GRU-Attention version is smaller, faster, and deployment-optimized.
 # ✈️ Turbofan Engine RUL Prediction — Predictive Maintenance AI
 
 > A deep learning system using LSTM networks to predict the **Remaining Useful Life (RUL)** of aircraft turbofan engines, with uncertainty estimation, transfer learning, and TFLite deployment.
